@@ -67,9 +67,8 @@ Add your Power BI dashboard screenshot here.
 
 Example:
 
-![Coffee Sales Power BI Dashboard](dashboard.png)
+![Coffee Sales Power BI Dashboard](Screenshot2026-10-15202152.png)
 
-Replace `dashboard.png` with the actual screenshot filename uploaded to this repository.
 
 ## 🚀 How to Use This Project
 
