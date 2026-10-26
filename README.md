@@ -96,3 +96,9 @@ It showcases practical skills in data analytics, data visualization, dashboard d
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Python | Tableau
 
+## ☕ Coffee Sales Dashboard
+
+### Dashboard Preview
+
+![Coffee Sales Power BI Dashboard](Screenshot%202026-10-15%20202152.png)
+
